@@ -9,7 +9,7 @@ My professional interests include:
 - Studying and applying efficient algorithms and data structures that enhance the optimal functioning of programs.
 
 ## Education
-- **[Jan. 7, 2023 – Present]:** Ongoing: Java Programming
+- **[Jan. 7, 2023 – July. 30.2023]:** Programming Fundamentals with Java
   Software University of Sofia
 
 - **[Oct. 10, 2018 – Jan. 24, 2020]:** Master's Degree: Software Engineering
